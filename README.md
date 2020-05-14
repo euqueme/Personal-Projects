@@ -56,12 +56,12 @@
 
 You can find my social media & other interesting links, here:
 
-[LinkedIn](www.linkedin.com/in/maria-queme)
-[Angel List](https://angel.co/u/maria-eugenia-queme-pena)
-[Twitter](https://twitter.com/MaruKK)
-[GitHub](https://github.com/euqueme)
-[HackerRank](https://www.hackerrank.com/euqueme?hr_r=1)
-[Medium](https://medium.com/@euqueme)
+* [LinkedIn](www.linkedin.com/in/maria-queme)
+* [AngelList](https://angel.co/u/maria-eugenia-queme-pena)
+* [Twitter](https://twitter.com/MaruKK)
+* [GitHub](https://github.com/euqueme)
+* [HackerRank](https://www.hackerrank.com/euqueme?hr_r=1)
+* [Medium](https://medium.com/@euqueme)
 
 [contributors-shield]: https://img.shields.io/github/contributors/euqueme/Personal-Projects.svg?style=flat-square
 [contributors-url]: https://github.com/euqueme/Personal-Projects/graphs/contributors
